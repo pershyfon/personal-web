@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "OSBANAS (Olimpiade Sains, Sosial, dan Bahasa Nasional)",
+    "description": "An online olympiad platform with proctoring features (webcam, mic, tab detection), built for client PejuangOSN. Includes role-based dashboards, real-time answer saving, and secure submission system.",
+    "tags": ["Django", "React", "Next.js", "REST API", "Redis", "PostgreSQL"],
+    "demoUrl": "https://youtube.com/shorts/lAfUwmoNHq0?feature=share", 
+    "githubUrl": "",
+    "image": "/images/OSBANAS.png"
+  },
+  {
+    "id": 2,
+    "title": "Plusheesh",
+    "description": "A plushie marketplace with role-based access where guests can browse, users can shop and track orders, and sellers manage products and payments to focus on secure transactions and user data protection. Deployed on Fasilkom UI’s server.",
+    "tags": ["Next.js", "SpringBoot", "PostgreSQL", "Micro-service", "JWT Authentication", "Security", "RBC"],
+    "demoUrl": "",
+    "githubUrl": "",
+    "image": "/images/Plusheesh.png"
+  },
+  {
+    "id": 3,
+    "title": "Zmart",
+    "description": "A grocery web app supporting the zero food waste campaign by enabling supermarkets to sell nearly expired food. Includes recipe recommendations based on cart contents. To build this, we conducted product analysis using SWOT and designed the Business Model Canvas.",
+    "tags": ["Next.js", "TypeScript", "Tailwind CSS", "Local Storage", "Business Model Canvas"],
+    "demoUrl": "https://zmart-ten.vercel.app/",
+    "githubUrl": "",
+    "image": "/images/Zmart.png"
+  },
+  {
+    "id": 4,
+    "title": "Health Admission Classification & Regression",
+    "description": "A supervised learning project using hospital admission data to predict patient outcomes (classification) and ICU stay duration (regression). Data preprocessing included missing value imputation and prediction, encoding, and feature engineering.",
+    "tags": ["Python", "XGBoost", "CatBoost", "Optuna", "SHAP", "SMOTE", "Feature Engineering", "Hyperparameter Tuning"],
+    "demoUrl": "https://drive.google.com/file/d/1iPb1iJbrbHO2h6mQKx1ixagW930Kmavv/view?usp=sharing",
+    "githubUrl": "",
+    "image": "/images/health-admission.png"
+  },
+  {
+  "id": 5,
+  "title": "Mommyhood",
+  "description": "A pregnancy app prototype designed to support expecting mothers by providing trusted information, doctor consultation, and health tracking. The app includes Tips & Recommendations, To-do List with gamification, and Health Reports. Built based on user research and refined through usability testing. Improvements included adding rating systems, relevant medical fields, and clearer icons and UI.",
+  "tags": ["UX Research", "UI Design", "Figma", "Usability Testing", "SUS", "Design Thinking", "Figma"],
+  "demoUrl": "https://bit.ly/MOMMYHOOD-Prototype",
+  "githubUrl": "",
+  "image": "/images/Mommyhood.png"
+},
+{
+  "id": 6,
+  "title": "OKK UI 2023 Website",
+  "description": "Designed the official website for OKK UI 2023 using Figma based on the provided PRD. Collaborated closely with web developers to ensure accurate implementation of the design.",
+  "tags": ["UI/UX Design", "Figma", "Web Design"],
+  "demoUrl": "",
+  "githubUrl": "",
+  "image": "/images/OKK.png"
+}
+]
