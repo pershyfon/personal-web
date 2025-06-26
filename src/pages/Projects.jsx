@@ -114,7 +114,7 @@ const ProjectsPage = () => {
           <SectionTitle variants={slideInFromTop}>My Projects</SectionTitle>
           <SectionDescription variants={fadeIn}>
             Here are some of my recent works. Each project was built with attention to detail 
-            and a focus on user experience.
+            and a focus on functionality and impact.
           </SectionDescription>
           
           <ProjectsGrid 
