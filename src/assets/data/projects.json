@@ -36,21 +36,21 @@
     "image": "/images/health-admission.png"
   },
   {
-  "id": 5,
-  "title": "Mommyhood",
-  "description": "A pregnancy app prototype designed to support expecting mothers by providing trusted information, doctor consultation, and health tracking. The app includes Tips & Recommendations, To-do List with gamification, and Health Reports. Built based on user research and refined through usability testing. Improvements included adding rating systems, relevant medical fields, and clearer icons and UI.",
-  "tags": ["UX Research", "UI Design", "Figma", "Usability Testing", "SUS", "Design Thinking", "Figma"],
-  "demoUrl": "https://bit.ly/MOMMYHOOD-Prototype",
-  "githubUrl": "",
-  "image": "/images/Mommyhood.png"
-},
-{
-  "id": 6,
-  "title": "OKK UI 2023 Website",
-  "description": "Designed the official website for OKK UI 2023 using Figma based on the provided PRD. Collaborated closely with web developers to ensure accurate implementation of the design.",
-  "tags": ["UI/UX Design", "Figma", "Web Design"],
-  "demoUrl": "",
-  "githubUrl": "",
-  "image": "/images/OKK.png"
-}
+    "id": 5,
+    "title": "Mommyhood",
+    "description": "A pregnancy app prototype designed to support expecting mothers by providing trusted information, doctor consultation, and health tracking. The app includes Tips & Recommendations, To-do List with gamification, and Health Reports. Built based on user research and refined through usability testing. Improvements included adding rating systems, relevant medical fields, and clearer icons and UI. For detailed research, <a href='https://drive.google.com/file/d/1OF5-Hn3mJVu4VyEy7pDSbEJy1Hwphw3a/view?usp=sharing' target='_blank' rel='noopener noreferrer'>click this</a>.",
+    "tags": ["UX Research", "UI Design", "Figma", "Usability Testing", "SUS", "Design Thinking", "Figma"],
+    "demoUrl": "https://bit.ly/MOMMYHOOD-Prototype",
+    "githubUrl": "",
+    "image": "/images/Mommyhood.png"
+  },
+  {
+    "id": 6,
+    "title": "OKK UI 2023 Website",
+    "description": "Designed the official website for OKK UI 2023 using Figma based on the provided PRD. Collaborated closely with web developers to ensure accurate implementation of the design.",
+    "tags": ["UI/UX Design", "Figma", "Web Design"],
+    "demoUrl": "",
+    "githubUrl": "",
+    "image": "/images/OKK.png"
+  }
 ]

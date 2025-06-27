@@ -134,7 +134,7 @@ const ProjectsPage = () => {
                 )}
                 <Card>
                   <ProjectTitle>{project.title}</ProjectTitle>
-                  <ProjectDescription>{project.description}</ProjectDescription>
+                  <ProjectDescription dangerouslySetInnerHTML={{ __html: project.description }} />
                   <ProjectTags>
                     {project.tags.map((tag, i) => (
                       <Badge key={i} variant="primary">{tag}</Badge>
