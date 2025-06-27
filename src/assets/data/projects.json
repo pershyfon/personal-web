@@ -3,7 +3,7 @@
     "id": 1,
     "title": "OSBANAS (Olimpiade Sains, Sosial, dan Bahasa Nasional)",
     "description": "An online olympiad platform with proctoring features (webcam, mic, tab detection), built for client PejuangOSN. Includes role-based dashboards, real-time answer saving, and secure submission system. In addition to designing the admin dashboard and developing some other features, I also conducted usability testing to to evaluate the OSBANAS system’s effectiveness and usability.",
-    "tags": ["Django", "React", "Next.js", "REST API", "Redis", "PostgreSQL"],
+    "tags": ["Django", "React", "Next.js", "REST API", "Redis", "PostgreSQL", "Usability Testing", "UI/UX"],
     "demoUrl": "https://youtube.com/shorts/lAfUwmoNHq0?feature=share", 
     "githubUrl": "",
     "image": "/images/OSBANAS.png"
